@@ -1,0 +1,12 @@
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\bin\Release\Client.exe.config
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\bin\Release\NLog.config
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\bin\Release\Client.exe
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\bin\Release\Client.pdb
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\bin\Release\NLog.dll
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\bin\Release\NLog.xml
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\obj\Release\Client.BusyForm.resources
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\obj\Release\Client.ClientUI.resources
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\obj\Release\Client.Properties.Resources.resources
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\obj\Release\Client.csproj.GenerateResource.Cache
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\obj\Release\Client.exe
+c:\Users\mtaharboucht\documents\visual studio 2015\Projects\Services\Client\obj\Release\Client.pdb
